@@ -8,4 +8,6 @@ Some notes:
 tsc --init
 npm init
 npm i -D typescript ...
+
+Separate scripts for build, dev and start
 ```
